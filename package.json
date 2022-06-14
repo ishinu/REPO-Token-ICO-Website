@@ -1,0 +1,17 @@
+{
+    "name": "repp-token-sale",
+    "version": "1.0.0",
+    "description":"REPO Token Sale ICO",
+    "main": "truffle.js",
+    "directories":{
+        "test":"test"
+    },
+    "scripts": {
+        "dev":"lite-server"
+    },
+    "author":"ishinu",
+    "license":"ISC",
+    "devDependencies":{
+        "lite-server":"^2.3.0"
+    }
+}
